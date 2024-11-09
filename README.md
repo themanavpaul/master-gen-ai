@@ -1,6 +1,7 @@
 ## Hey Generative AI Enthusiasts! 
 
 I'm [Manav Paul](https://linktr.ee/themanavpaul), a 24-year-old spiritual developer on a mission to demystify generative AI. Fascinated by its potential, I'm embarking on a 30-day journey to master this cutting-edge technology. This repository is my digital travelogue, where I'll share insights, experiments, and code as I unravel the secrets of generative AI.
+
 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/manav-paul/) and [X(Twitter)](https://x.com/themanavpaul).
 
 Whether you're a curious beginner or a seasoned developer, this journey is designed to be accessible and engaging. Dive into the wonders of generative AI and discover how it can be used to:
