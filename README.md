@@ -33,7 +33,7 @@ Full Series : [Master GenAI](https://manavpaul.hashnode.dev/series/generative-ai
     - Importance, Working, Discriminative/Generative, Supervised/Unsupervised, LLMs.
 - [Day 2:](https://manavpaul.hashnode.dev/day-2-end-to-end-generative-ai-pipeline-part-1) 📦 End to End Generative AI Pipeline | Part 1
     - Data Acquisition, Data Augmentation,  Data Preprocessing, tokensisation.
--[ Day 3:](https://manavpaul.hashnode.dev/day-3-end-to-end-generative-ai-pipeline-part-2) 🐱 End to End Generative AI Pipeline | Part 2
+- [ Day 3:](https://manavpaul.hashnode.dev/day-3-end-to-end-generative-ai-pipeline-part-2) 🐱 End to End Generative AI Pipeline | Part 2
    - Feature Engineering, Modeling, Evaluation, Deployment, Monitoring and Retraining.
 - [Day 4:](https://manavpaul.hashnode.dev/day-4-hands-on-data-preprocessing-generative-ai) 🚀 Hands-On Data Preprocessing | Generative AI
     - Lowercase Data, Remove tags/URLs. Punctuation handling, Chat Conversion Handle, Stopwords, Emoji Handling, Tokenization, Stemming, Lemmatization.
